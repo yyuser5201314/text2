@@ -1,0 +1,78 @@
+{
+    "links": [
+        {
+            "relation": "为",
+            "source": "储量",
+            "target": "1451吨（WO3）",
+            "value": 3
+        },
+        {
+            "relation": "为",
+            "source": "平均品位",
+            "target": "0.246%",
+            "value": 3
+        },
+        {
+            "relation": "为",
+            "source": "地理位置",
+            "target": "新疆特克斯县",
+            "value": 3
+        },
+        {
+            "relation": "为",
+            "source": "成矿要素",
+            "target": "岩石类型",
+            "value": 3
+        },
+        {
+            "relation": "为",
+            "source": "特征描述",
+            "target": "接触交代成因矽卡岩型矿床",
+            "value": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "矿床名称",
+            "group": "0",
+            "id": "1-大恩别列矽卡岩型钨矿床",
+            "size": "16"
+        },
+        {
+            "class": "模型要素",
+            "group": "1",
+            "id": "储量",
+            "size": "10"
+        },
+        {
+            "class": "要素内容",
+            "group": "2",
+            "id": "1451吨（WO3）",
+            "size": "8"
+        },
+        {
+            "class": "要素内容",
+            "group": "2",
+            "id": "0.246%",
+            "size": "8"
+        },
+        {
+            "class": "要素内容",
+            "group": "2",
+            "id": "新疆特克斯县",
+            "size": "8"
+        },
+        {
+            "class": "要素内容",
+            "group": "2",
+            "id": "接触交代成因矽卡岩型矿床",
+            "size": "8"
+        },
+        {
+            "class": "要素内容",
+            "group": "2",
+            "id": "岩石类型",
+            "size": "8"
+        }
+    ]
+}
