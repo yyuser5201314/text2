@@ -1,6 +1,36 @@
 {
     "links": [
         {
+            "relation": "包含",
+            "source": "1-大恩别列矽卡岩型钨矿床",
+            "target": "储量",
+            "value": 3
+        },
+        {
+            "relation": "包含",
+            "source": "1-大恩别列矽卡岩型钨矿床",
+            "target": "成矿要素",
+            "value": 3
+        },
+        {
+            "relation": "包含",
+            "source": "1-大恩别列矽卡岩型钨矿床",
+            "target": "地理位置",
+            "value": 3
+        },
+        {
+            "relation": "包含",
+            "source": "1-大恩别列矽卡岩型钨矿床",
+            "target": "特征描述",
+            "value": 3
+        },
+        {
+            "relation": "包含",
+            "source": "1-大恩别列矽卡岩型钨矿床",
+            "target": "平均品位",
+            "value": 3
+        },
+        {
             "relation": "为",
             "source": "储量",
             "target": "1451吨（WO3）",
