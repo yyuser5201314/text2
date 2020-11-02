@@ -2,49 +2,49 @@
     "links":[
         {
             "relation":"位于",
-            "source":"西坞口石英脉型钨锡矿床",
+            "source":"1-西坞口石英脉型钨锡矿床",
             "target":"扬子成矿省",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"西坞口石英脉型钨锡矿床",
-            "target":"地理位置",
+            "source":"1-西坞口石英脉型钨锡矿床",
+            "target":"1-地理位置",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"西坞口石英脉型钨锡矿床",
-            "target":"成矿要素",
+            "source":"1-西坞口石英脉型钨锡矿床",
+            "target":"1-成矿要素",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"西坞口石英脉型钨锡矿床",
-            "target":"特征描述",
+            "source":"1-西坞口石英脉型钨锡矿床",
+            "target":"1-特征描述",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"西坞口石英脉型钨锡矿床",
-            "target":"平均品位",
+            "source":"1-西坞口石英脉型钨锡矿床",
+            "target":"1-平均品位",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"西坞口石英脉型钨锡矿床",
-            "target":"储量",
+            "source":"1-西坞口石英脉型钨锡矿床",
+            "target":"1-储量",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"储量",
+            "source":"1-储量",
             "target":"SnO2",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"储量",
+            "source":"1-储量",
             "target":"WO3",
             "value":3
         },
@@ -74,13 +74,13 @@
         },
         {
             "relation":"包含",
-            "source":"平均品位",
+            "source":"1-平均品位",
             "target":"Sn",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"平均品位",
+            "source":"1-平均品位",
             "target":"WO3",
             "value":3
         },
@@ -98,103 +98,103 @@
         },
         {
             "relation":"为",
-            "source":"特征描述",
+            "source":"1-特征描述",
             "target":"石英脉型钨矿床",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"化探",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"物探",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"矿区构造",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"矿区岩浆岩",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"矿区地层",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"蚀变",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"矿石结构",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"矿石构造",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"矿物组合",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"岩石建造",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"区域构造",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"区域岩浆岩",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"区域地层",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"成矿时代",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"岩石结构",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"1-成矿要素",
             "target":"岩石类型",
             "value":3
         },
@@ -800,49 +800,49 @@
         },
         {
             "relation":"为",
-            "source":"地理位置",
+            "source":"1-地理位置",
             "target":"安徽省宁国市",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"香炉山矽卡岩型白钨矿床",
-            "target":"成矿要素",
+            "source":"2-香炉山矽卡岩型白钨矿床",
+            "target":"2-成矿要素",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"香炉山矽卡岩型白钨矿床",
-            "target":"地理位置",
+            "source":"2-香炉山矽卡岩型白钨矿床",
+            "target":"2-地理位置",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"香炉山矽卡岩型白钨矿床",
-            "target":"特征描述",
+            "source":"2-香炉山矽卡岩型白钨矿床",
+            "target":"2-特征描述",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"香炉山矽卡岩型白钨矿床",
-            "target":"平均品位",
+            "source":"2-香炉山矽卡岩型白钨矿床",
+            "target":"2-平均品位",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"香炉山矽卡岩型白钨矿床",
-            "target":"储量",
+            "source":"2-香炉山矽卡岩型白钨矿床",
+            "target":"2-储量",
             "value":3
         },
         {
             "relation":"为",
-            "source":"储量",
+            "source":"2-储量",
             "target":"218325吨",
             "value":3
         },
         {
             "relation":"为",
-            "source":"平均品位",
+            "source":"2-平均品位",
             "target":"WO3",
             "value":3
         },
@@ -854,91 +854,91 @@
         },
         {
             "relation":"是",
-            "source":"特征描述",
+            "source":"2-特征描述",
             "target":"矽卡岩性白钨矿",
             "value":3
         },
         {
             "relation":"为",
-            "source":"地理位置",
+            "source":"2-地理位置",
             "target":"江西修水县",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"土壤",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"磁法",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"控矿条件",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"变质作用",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"蚀变",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"矿石结构",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"矿石构造",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"矿物组合",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"构造背景",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"成矿环境",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"成矿时代",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"岩石结构",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"2-成矿要素",
             "target":"岩石类型",
             "value":3
         },
@@ -1400,139 +1400,139 @@
         },
         {
             "relation":"属于",
-            "source":"七一山式石英脉型钨矿床",
+            "source":"3-七一山式石英脉型钨矿床",
             "target":"塔里木成矿省",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"七一山式石英脉型钨矿床",
-            "target":"地理位置",
+            "source":"3-七一山式石英脉型钨矿床",
+            "target":"3-地理位置",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"七一山式石英脉型钨矿床",
-            "target":"成矿要素",
+            "source":"3-七一山式石英脉型钨矿床",
+            "target":"3-成矿要素",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"七一山式石英脉型钨矿床",
-            "target":"特征描述",
+            "source":"3-七一山式石英脉型钨矿床",
+            "target":"3-特征描述",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"七一山式石英脉型钨矿床",
-            "target":"平均品位",
+            "source":"3-七一山式石英脉型钨矿床",
+            "target":"3-平均品位",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"七一山式石英脉型钨矿床",
-            "target":"储量",
+            "source":"3-七一山式石英脉型钨矿床",
+            "target":"3-储量",
             "value":3
         },
         {
             "relation":"为",
-            "source":"储量",
+            "source":"3-储量",
             "target":"小型",
             "value":3
         },
         {
             "relation":"为",
-            "source":"储量",
+            "source":"3-储量",
             "target":"13756.6吨",
             "value":3
         },
         {
             "relation":"为",
-            "source":"平均品位",
+            "source":"3-平均品位",
             "target":"0.174%",
             "value":3
         },
         {
             "relation":"为",
-            "source":"特征描述",
+            "source":"3-特征描述",
             "target":"热液脉型钨矿床",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"地球化学特征",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"重力",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"航磁",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"控矿条件",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"蚀变类型",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"矿物组合",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"岩石构造",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"岩石结构",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"岩石类型",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"矿体形态",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"成矿时代",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"成矿环境",
             "value":3
         },
         {
             "relation":"包含",
-            "source":"成矿要素",
+            "source":"3-成矿要素",
             "target":"大地构造背景",
             "value":3
         },
@@ -2264,7 +2264,7 @@
         },
         {
             "relation":"为",
-            "source":"地理位置",
+            "source":"3-地理位置",
             "target":"内蒙古七一山",
             "value":3
         }
@@ -2273,13 +2273,13 @@
         {
             "class":"矿床名称",
             "group":"0",
-            "id":"西坞口石英脉型钨锡矿床",
+            "id":"1-西坞口石英脉型钨锡矿床",
             "size":"25"
         },
         {
             "class":"模型要素",
             "group":"1",
-            "id":"储量",
+            "id":"1-储量",
             "size":"20"
         },
         {
@@ -2321,7 +2321,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"平均品位",
+            "id":"1-平均品位",
             "size":"20"
         },
         {
@@ -2345,7 +2345,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"特征描述",
+            "id":"1-特征描述",
             "size":"20"
         },
         {
@@ -2357,7 +2357,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"成矿要素",
+            "id":"1-成矿要素",
             "size":"20"
         },
         {
@@ -2903,7 +2903,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"地理位置",
+            "id":"1-地理位置",
             "size":"20"
         },
         {
@@ -2921,13 +2921,13 @@
         {
             "class":"矿床名称",
             "group":"0",
-            "id":"香炉山矽卡岩型白钨矿床",
+            "id":"2-香炉山矽卡岩型白钨矿床",
             "size":"25"
         },
         {
             "class":"模型要素",
             "group":"1",
-            "id":"储量",
+            "id":"2-储量",
             "size":"20"
         },
         {
@@ -2939,7 +2939,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"平均品位",
+            "id":"2-平均品位",
             "size":"20"
         },
         {
@@ -2957,7 +2957,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"特征描述",
+            "id":"2-特征描述",
             "size":"20"
         },
         {
@@ -2969,7 +2969,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"地理位置",
+            "id":"2-地理位置",
             "size":"20"
         },
         {
@@ -2981,7 +2981,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"成矿要素",
+            "id":"2-成矿要素",
             "size":"20"
         },
         {
@@ -3455,13 +3455,13 @@
         {
             "class":"矿床名称",
             "group":"0",
-            "id":"七一山式石英脉型钨矿床",
+            "id":"3-七一山式石英脉型钨矿床",
             "size":"25"
         },
         {
             "class":"模型要素",
             "group":"1",
-            "id":"储量",
+            "id":"3-储量",
             "size":"20"
         },
         {
@@ -3479,7 +3479,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"平均品位",
+            "id":"3-平均品位",
             "size":"20"
         },
         {
@@ -3491,7 +3491,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"特征描述",
+            "id":"3-特征描述",
             "size":"20"
         },
         {
@@ -3503,7 +3503,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"成矿要素",
+            "id":"3-成矿要素",
             "size":"20"
         },
         {
@@ -4181,7 +4181,7 @@
         {
             "class":"模型要素",
             "group":"1",
-            "id":"地理位置",
+            "id":"3-地理位置",
             "size":"20"
         },
         {
